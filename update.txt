@@ -1,3 +1,3 @@
 update-v1
-version=0.38.3
-notes=Fruitiger Aero UI pass + normalized Avoider payouts + Pictochat-style social lounge
+version=0.38.5
+notes=FIXES
